@@ -1,8 +1,1 @@
-pluginManagement{
-    repositories{
-        gradlePluginPortal()
-        mavenCentral()
-        maven { url "https://gradle.org"}
-    }
-}
-rootProject.name = 'SimpleJavaFxAppCl'
+rootProject.name = 'SimpleJavaFXApp'
